@@ -1,0 +1,10 @@
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\bin\Debug\AmeliorerVitesseDeFrappe.exe.config
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\bin\Debug\AmeliorerVitesseDeFrappe.exe
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\bin\Debug\AmeliorerVitesseDeFrappe.pdb
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.csprojAssemblyReference.cache
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.Form1.resources
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.Properties.Resources.resources
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.csproj.GenerateResource.cache
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.csproj.CoreCompileInputs.cache
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.exe
+C:\Users\Mouhamed Amar\Desktop\Vitesse_de_frappe\AmeliorerVitesseDeFrappe\obj\Debug\AmeliorerVitesseDeFrappe.pdb
